@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 #HackerForge Class
 gem 'bootstrap-sass'
+gem 'devise'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
